@@ -1,9 +1,9 @@
 ---
 title: Acceuil | Architecture de la communauté francophone sur SCP:RP
 ---
-**crédits : linconnue_62530, basedcrowd2, gemasxz_yt, divin_hunter**
+*crédits : **linconnue_62530, basedcrowd2, gemasxz_yt, divin_hunter***
 ## 👋・Bienvenue à vous !
-Bienvenue à vous sur le site de **l'Architecture de la communauté francophone sur SCP:RP**
+Bienvenue à vous sur le site de **l'Architecture de la communauté francophone sur SCP:RP**.
 Ce site, développé à l’aide de Quartz, a pour objectif principal d’indexer, de centraliser et de mettre en valeur l’ensemble des groupes francophones, qu’ils soient actuellement actifs ou aujourd’hui dissous, ayant existé sur le jeu Roblox SCP: Roleplay.
 
 Il vise à offrir une représentation structurée et détaillée de ces différentes groupes, en regroupant pour chacune d’elles les nombreuses informations qui leur sont liées, telles que leur impacte sur la communauté ou encore leur période d’activité.
