@@ -1,7 +1,8 @@
 ---
 
 title: BetterRP™
-
+tag : 
+  - example-tag
 ---
 #Communauté #Actif #Bonne-réputation
 ## 📖・Description
