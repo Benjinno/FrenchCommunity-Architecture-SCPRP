@@ -18,7 +18,7 @@ Les succèsseurs suivants l'arrêt du site fut [[Site 11 REMAKE]] pour ensuite �
 - Propriétaire : altongiorpfr2504
 
 ## 🌐・Histoire/Communauté
-> [!warning]
+> [!warning] ATTENTION
 > Nous vous informons que le contenue de cette section est assez vague et peu précis. Il est possible que certaines informations soit totalement fausses en raison de l'ancienneté du groupe rendant plus difficiles de trouver des éléments étant fiables. <br>**Nous vous demanderons de lire ce qui va suivre avec attention**.
 > - Vous souhaitez contribuer? [Contactez nous !](https://discord.gg/Tujvx6a3pb)
 
