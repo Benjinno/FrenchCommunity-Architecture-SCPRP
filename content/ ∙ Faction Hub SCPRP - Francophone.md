@@ -1,5 +1,5 @@
 ---
-title: 🧨 ∙ Faction Hub SCPRP : Francophone
+title: 🧨 ∙ Faction Hub SCPRP - Francophone
 tag : 
   - FactionHub
   - Actif
