@@ -19,8 +19,7 @@ Les succèsseurs suivants l'arrêt du site fut [[Site 11 REMAKE]] pour ensuite �
 
 ## 🌐・Histoire/Communauté
 > [!warning] ATTENTION
-> Nous vous informons que le contenue de cette section est assez vague et peu précis. Il est possible que certaines informations soit totalement fausses en raison de l'ancienneté du groupe rendant plus difficiles de trouver des éléments étant fiables. <br>**Nous vous demanderons de lire ce qui va suivre avec attention**.
-> - Vous souhaitez contribuer? [Contactez nous !](https://discord.gg/Tujvx6a3pb)
+> Nous vous informons que le contenue de cette section est assez vague et peu précis. Il est possible que certaines informations soit totalement fausses en raison de l'ancienneté du groupe rendant plus difficiles de trouver des éléments étant fiables. **Nous vous demanderons de lire ce qui va suivre avec attention**. <br>*Vous souhaitez contribuer? [Contactez nous !](https://discord.gg/Tujvx6a3pb)*
 
 **Site 11** créé par altongiorpfr2504 ainsi que par *un ami à lui* vers le milieu de 2022. Très peu d'informations relatives aux débuts du groupe ont pu être trouvées, comme les raisons de la création du **Site 11**.
 
