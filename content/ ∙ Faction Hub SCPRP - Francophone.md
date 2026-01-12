@@ -10,7 +10,7 @@ Rapide description du groupe et de son origine.
 
 ## 📊・Statistiques
 *Dernière actualisation le xx/xx/xxxx*
-- Membres sur le Discord : 204 Membres
+- Membres sur le Discord : 216 Membres
 - Date de création : mercredi 24 septembre 2025 à 15:09
 - Propriétaire actuel : l.emile
 
