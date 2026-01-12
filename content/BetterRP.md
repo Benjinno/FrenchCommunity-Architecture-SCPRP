@@ -1,6 +1,6 @@
 ---
 
-title: BetterRP™
+title: [BetterRP™](https://discord.gg/SxsX5MyvyD)
 tag : 
   - Communauté
   - Actif
