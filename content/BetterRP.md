@@ -1,6 +1,4 @@
 ---
-
-title: BetterRP™
 tag : 
   - Communauté
   - Actif
