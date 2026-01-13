@@ -5,7 +5,7 @@ tag :
   - Actif
   - Bonne-réputation
 ---
-<img src="https://imgur.com/a/zeurfbeiucdbfvnjdvkhcidfzyfrzyvqerjkhq-zO2iCrR" alt="Logo" style="width:120px;">
+<img src="https://imgur.com/gallery/zeurfbeiucdbfvnjdvkhcidfzyfrzyvqerjkhq-zO2iCrR#GX7v4HY" alt="Logo" style="width:120px;">
 
 ## 📖・Description
 BetterRP™, réalisé par Benji II (alias linconnue_62530) co-fondé avec vacarme_emporte. et lirus_12345, est un projet visant à créer et centraliser plusieurs ressources sur SCP:RP. Son objectif est de guider et de donner des conseils adaptés aux sites et aux factions afin de leur permettre de bien fonctionner et de se développer gratuitement et de manière fiable.
