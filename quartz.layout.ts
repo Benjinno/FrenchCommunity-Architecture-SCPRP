@@ -5,13 +5,9 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-  Component.Header({
+    Component.Header({
     links: [
-      { name: "Guides", link: "/Guides" },
-      { name: "Outils", link: "/Outils" },
-      { name: "Jeu de construction", link: "/Construction" },
-      { name: "Référence pour programmeurs", link: "/Reference" },
-      { name: "Contribuer", link: "/Contribuer" },
+      { name: "Guides", link: "/BetterRP" },
     ],
   }),
 ],
