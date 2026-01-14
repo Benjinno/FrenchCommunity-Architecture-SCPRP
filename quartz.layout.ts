@@ -4,22 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.Header({
-    links: [
-      { name: "Guides", link: "/BetterRP" },
-    ],
-  }),
-],
-  afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Quartz": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
-}
-
+  header: []
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
