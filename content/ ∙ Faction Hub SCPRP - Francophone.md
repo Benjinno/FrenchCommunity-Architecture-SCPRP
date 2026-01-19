@@ -9,7 +9,7 @@ tag :
 Le groupe **🧨 ∙ Faction Hub SCPRP - Francophone** est, comme son nom l’indique, un FactionHub fondé par *l.emile* et *0nyx___* (souvent abrégé par *Onyx*) après la disparition du [[FactionHub Francophone]] de *Gameplay*. Il est désormais la référence principale pour la communauté francophone de *SCP:Roleplay*, en tant que hub le plus actif et le plus présent.
 
 ## 📊・Statistiques
-*Dernière actualisation le xx/xx/xxxx*
+*Dernière actualisation le 19/01/2026*
 - Membres sur le Discord : 204 membres (sans bots)
 - Date de création : mercredi 24 septembre 2025 à 15:09
 - Propriétaire actuel : l.emile

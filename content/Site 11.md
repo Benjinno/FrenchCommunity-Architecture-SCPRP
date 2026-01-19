@@ -9,7 +9,7 @@ tag :
 ---
 ## 📖・Description
 Site 11, considéré comme un étant des premiers site francophone mais aussi celui avec une qualité de roleplay exellente et un des plus développé pour l'époque, c'est ici que la plupart on découverts le roleplay sur SCP:RP. Aujourd'hui disparue, il existe peu de trace encore aujourd'hui de ce site.<br>
-Les succèsseurs suivants l'arrêt du site fut [[Site 11 REMAKE]] pour ensuite être [[Site 11 REMAKE V2]].
+Les succèsseurs suivants l'arrêt du site fut [[Site 11] pour ensuite être [[Site 11 REMAKE V2]].
 
 ## 📊・Statistiques
 *Dernière actualisation le xx/xx/xxxx*
