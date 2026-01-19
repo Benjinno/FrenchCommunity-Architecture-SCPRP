@@ -9,30 +9,40 @@
 
 <img src="https://i.imgur.com/GX7v4HY.png" alt="Logo" style="width:120px;">
 
+## 📖・Description
 
 <div style="
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  gap: 24px;
+  gap: 32px;
   margin-top: 1.5rem;
+  max-width: 900px;
 ">
 
   <!-- TEXTE À GAUCHE -->
-  <div>
-    <span style="opacity:0.8">BetterRP™, réalisé par Benji II (alias linconnue_62530) co-fondé avec vacarme_emporte. et lirus_12345, est un projet visant à créer et centraliser plusieurs ressources sur SCP:RP. Son objectif est de guider et de donner des conseils adaptés aux sites et aux factions afin de leur permettre de bien fonctionner et de se développer gratuitement et de manière fiable.</span>
+  <div style="flex:1; line-height:1.6">
+    <span style="opacity:0.85">
+      BetterRP™, réalisé par Benji II (alias linconnue_62530), co-fondé avec
+      vacarme_emporte et lirus_12345, est un projet visant à créer et centraliser
+      plusieurs ressources sur SCP:RP. Son objectif est de guider et de donner
+      des conseils adaptés aux sites et aux factions afin de leur permettre de
+      bien fonctionner et de se développer gratuitement et de manière fiable.
+    </span>
   </div>
 
   <!-- LOGO À DROITE -->
   <img
     src="https://i.imgur.com/GX7v4HY.png"
-    width="120"
-    height="120"
-    style="border-radius:50%"
+    style="
+      width: 72px;
+      height: 72px;
+      border-radius: 16%;
+      flex-shrink: 0;
+      opacity: 0.9;
+    "
   />
 
 </div>
-
 ## 📖・Description
 BetterRP™, réalisé par Benji II (alias linconnue_62530) co-fondé avec vacarme_emporte. et lirus_12345, est un projet visant à créer et centraliser plusieurs ressources sur SCP:RP. Son objectif est de guider et de donner des conseils adaptés aux sites et aux factions afin de leur permettre de bien fonctionner et de se développer gratuitement et de manière fiable.
 
