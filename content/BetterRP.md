@@ -34,8 +34,8 @@
   <img
     src="https://i.imgur.com/GX7v4HY.png"
     style="
-      width: 72px;
-      height: 72px;
+      width: 120px;
+      height: 120px;
       border-radius: 16%;
       flex-shrink: 0;
       opacity: 0.9;
