@@ -24,6 +24,6 @@ Le projet MONARCH alias Godzilla, à était repris du serveur M.E.G de hyairoca.
 ### Collaboration Hors-RolePlay
 - [[Complexe Arque]]
 - [[BetterRP]]
--  [[Zone Gayin]]
+- [[Zone Gayin]]
 ### Collaboration Roleplay
 - [[Epsilon 11 " Nine Tiled Fox "]]
