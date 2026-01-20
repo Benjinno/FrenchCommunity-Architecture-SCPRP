@@ -1,10 +1,3 @@
-<div style="display:flex; align-items:center; gap:16px; margin-bottom:1rem;">
-  <img src="https://i.imgur.com/GX7v4HY.png" alt="Logo" style="width:80px; height:auto;">
-  <div>
-    <h1 style="margin:0;">BetterRP™</h1>
-  </div>
-</div>
-
 #Communauté #Actif
 
 ## 📖・Description
