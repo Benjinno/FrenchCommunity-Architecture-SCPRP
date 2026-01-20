@@ -1,6 +1,7 @@
 #Communauté #Actif
 
 ## 📖・Description
+
 <style>
 h2:has(+ div) {
   margin-bottom: 0.5rem;
@@ -11,7 +12,7 @@ h2:has(+ div) {
   display: flex;
   align-items: center;
   gap: 32px;
-  margin-top: 1.5rem;
+  margin-top: 0.4rem;
   max-width: 900px;
 ">
 
