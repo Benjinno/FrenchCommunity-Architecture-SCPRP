@@ -8,6 +8,12 @@
 #Communauté #Actif
 
 ## 📖・Description
+<style>
+h2:has(+ div) {
+  margin-bottom: 0.5rem;
+}
+</style>
+
 <div style="
   display: flex;
   align-items: center;
