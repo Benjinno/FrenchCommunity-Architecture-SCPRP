@@ -52,3 +52,13 @@ tag :
 - Propriétaire actuel : linconnue_62530
 
 ## 🌐・Histoire/Communauté
+BetterRP™ à connu lors de ses débuts très peu de succès, se faisant connaitre principalement par des conaissances ou bien des partenariats avec d'autres serveurs pour de la publicités. Bien qu'il ne soit pas parfait sur certains points tels que la variété des ressources proposé.
+
+Lancé par BetterRP™ le 3 octobre 2025 avant d’aboutir à sa version finale le 29 octobre de la même année, ce journal considéré comme la source d’information de référence pour la communauté SCP:Roleplay française. Adoptant une ligne éditoriale strictement neutre, il analyse les activités des différents groupes, leurs développements techniques et propose une observation globale de l’évolution du milieu. Depuis le 20 janvier 2026, l'équipe a officiellement intégré un système de publicité conçu pour ne jamais altérer le confort de lecture des abonnés.
+
+Le 3 octobre 2025, BetterRP™ lance son propre média nommé « Better Roleplay Actualités » avant d’aboutir à sa version finale le 29 octobre de la même année.
+Considéré par beaucoup comme une source d’information fiable pour la communauté SCP:Roleplay française. Le journal adopte une ligne éditoriale étant la plus neutre possible, les sujets présentés se concentrent principalement sur les activités des différents groupes, leurs développements et proposent une observation/enquête globale. Le journal est toujours actifs.
+
+À l’occasion du 1er décembre 2025, pour la période de Noël, BetterRP™ lance, en collaboration avec le [[ ∙ Faction Hub SCPRP - Francophone]], un événement communautaire (aujourd’hui controversé) nommé « Better Awards », imaginé par @Benji II 👑 et affilié directement au serveur BetterRP. Cet événement vise à récompenser les sites/groupes dans un domaine en particulier. Les récompenses attribuées sont des prix agissant comme une sorte de « label ». Vous retrouvez ici les différentes éditions qui ont été réalisées. Cependant, de nombreuses critiques ont été formulées, notamment sur un manque de transparence concernant certaines décisions comme l’organisation, l’exclusion de sites considérés comme « blacklist » du [[ ∙ Faction Hub SCPRP - Francophone]] ou encore sur les résultats, avec comme l’un des gagnants [[Site 11 REMAKE V2]], ayant provoqué beaucoup de réactions.
+
+
