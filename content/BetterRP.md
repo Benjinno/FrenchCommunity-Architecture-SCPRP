@@ -1,6 +1,6 @@
 #Communauté #Actif
 
-## 📖・Description
+<h2 style="margin-bottom: 0.4rem;">📖・Description</h2>
 
 <div style="
   display: flex;
