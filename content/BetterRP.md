@@ -1,4 +1,10 @@
-#Communauté #Actif
+---
+title: BetterRP
+tag : 
+  - Communauté
+  - Actif
+  - Reputation-Bonne
+---
 
 <div style="max-width: 900px; font-family: sans-serif; overflow: hidden;">
   
@@ -20,6 +26,7 @@
         height: 120px;
         border-radius: 8px;
         display: block;
+        margin: 0 auto;
       "
     />
     <div style="font-size: 0.8rem; margin-top: 8px; color: #54595d;">Logo BetterRP™ Actuel</div>
