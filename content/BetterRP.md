@@ -1,33 +1,43 @@
 #Communauté #Actif
 
-<h2 style="margin: 0 0 0.4rem 0;">📖・Description</h2>
+<div style="max-width: 900px; font-family: sans-serif; overflow: hidden;">
+  
+  <h2 style="margin: 0 0 1rem 0; border-bottom: 1px solid #a2a9b1; padding-bottom: 0.3rem; font-weight: normal;">
+    📖・Description
+  </h2>
 
-<div style="
-  display: flex;
-  align-items: right;
-  gap: 24px;
-  max-width: 900px;
-">
-
-  <div style="flex:1; line-height:1.6; opacity:0.85">
-    BetterRP™, réalisé par Benji II (alias linconnue_62530), co-fondé avec
-    vacarme_emporte et lirus_12345, est un projet visant à créer et centraliser
-    plusieurs ressources sur SCP:RP. Son objectif est de guider et de donner
-    des conseils adaptés aux sites et aux factions afin de leur permettre de
-    bien fonctionner et de se développer gratuitement et de manière fiable.
+  <div style="
+    float: right; 
+    margin: 0 0 15px 20px; 
+    padding: 10px; 
+    border: 1px solid #a2a9b1; 
+    background-color: #f8f9fa; 
+    text-align: center;
+    border-radius: 4px;
+  ">
+    <img
+      src="https://i.imgur.com/GX7v4HY.png"
+      style="
+        width: 120px;
+        height: 120px;
+        border-radius: 8px;
+        display: block;
+      "
+    />
+    <div style="font-size: 0.8rem; margin-top: 8px; color: #54595d;">Logo BetterRP™</div>
   </div>
 
-  <img
-    src="https://i.imgur.com/GX7v4HY.png"
-    style="
-      width: 96px;
-      height: 96px;
-      border-radius: 16%;
-      flex-shrink: 0;
-      align-self: center;
-      opacity: 0.9;
-    "
-  />
+  <div style="line-height: 1.6; text-align: justify;">
+    <p style="margin-top: 0;">
+      <strong>BetterRP™</strong>, réalisé par <strong>Benji II</strong> (alias <em>linconnue_62530</em>), 
+      co-fondé avec <strong>vacarme_emporte</strong> et <strong>lirus_12345</strong>, est un projet 
+      visant à créer et centraliser plusieurs ressources sur <strong>SCP:RP</strong>. 
+    </p>
+    <p>
+      Son objectif est de guider et de donner des conseils adaptés aux sites et aux factions 
+      afin de leur permettre de bien fonctionner et de se développer gratuitement et de manière fiable.
+    </p>
+  </div>
 
 </div>
 
