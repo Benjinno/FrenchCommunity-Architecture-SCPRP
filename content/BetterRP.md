@@ -2,9 +2,7 @@
 
 <div style="max-width: 900px; font-family: sans-serif; overflow: hidden;">
   
-  <h2 style="margin: 0 0 1rem 0; border-bottom: 1px solid #a2a9b1; padding-bottom: 0.3rem; font-weight: normal;">
-    📖・Description
-  </h2>
+  ## 📖・Description
 
   <div style="
     float: right; 
@@ -29,11 +27,9 @@
 
   <div style="line-height: 1.6; text-align: justify;">
     <p style="margin-top: 0;">
-      <strong>BetterRP™</strong>, réalisé par <strong>Benji II</strong> (alias <em>linconnue_62530</em>), 
-      co-fondé avec <strong>vacarme_emporte</strong> et <strong>lirus_12345</strong>, est un projet 
-      visant à créer et centraliser plusieurs ressources sur <strong>SCP:RP</strong>. 
-    </p>
-    <p>
+      BetterRP™, réalisé par Benji II (alias linconnue_62530<), 
+      co-fondé avec vacarme_emporte et lirus_12345, est un projet 
+      visant à créer et centraliser plusieurs ressources sur SCP:RP.
       Son objectif est de guider et de donner des conseils adaptés aux sites et aux factions 
       afin de leur permettre de bien fonctionner et de se développer gratuitement et de manière fiable.
     </p>
