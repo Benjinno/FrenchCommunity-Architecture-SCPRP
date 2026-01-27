@@ -29,7 +29,7 @@ tag :
         margin: 0 auto;
       "
     />
-    <div style="font-size: 0.8rem; margin-top: 8px; color: #54595d;">Logo BetterRP™ Actuel</div>
+    <div style="font-size: 0.8rem; margin-top: 8px;">Logo BetterRP™ Actuel</div>
   </div>
 
   <div style="line-height: 1.6; text-align: justify;">
