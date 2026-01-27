@@ -21,8 +21,6 @@ tag :
     <img
       src="https://i.imgur.com/GX7v4HY.png"
       style="
-        width: 120px;
-        height: 120px;
         border-radius: 8px;
         display: block;
         margin: 0 auto;
@@ -56,7 +54,7 @@ Considéré par beaucoup comme une source d’information fiable pour la communa
     width: 100%;           /* 5. Prend toute la largeur disponible */
     box-sizing: border-box;/* 6. Inclut le padding dans la largeur */
   ">
-    <img src="https://i.imgur.com/GX7v4HY.png" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 4px;" />
+    <img src="https://i.goopics.net/kcrez4.png" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 4px;" />
     <p style="font-style: italic; color: #666;">« Better Roleplay Actualités »</p>
   </div>
 </div>
