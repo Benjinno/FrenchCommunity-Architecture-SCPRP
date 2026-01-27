@@ -17,10 +17,13 @@ tag :
     border: 1px solid #a2a9b1; 
     text-align: center;
     border-radius: 4px;
+    width: 170px; 
   ">
     <img
       src="https://i.imgur.com/GX7v4HY.png"
       style="
+        width: 150px; 
+        height: auto;
         border-radius: 8px;
         display: block;
         margin: 0 auto;
@@ -48,14 +51,15 @@ Considéré par beaucoup comme une source d’information fiable pour la communa
 
 <div style="margin: 20px 0; text-align: center;">
   <div style="
-    display: inline-block; /* 1. Le bloc s'adapte à l'image */
-    padding: 10px;         /* 2. Cadre autour */
-    border: 1px solid #ddd;/* 4. Bordure */
-    width: 100%;           /* 5. Prend toute la largeur disponible */
-    box-sizing: border-box;/* 6. Inclut le padding dans la largeur */
+    display: inline-block;
+    padding: 10px; 
+    border: 1px solid #ddd;
+    width: 60%; /* RÉDUIT ICI (au lieu de 100%) */
+    max-width: 500px; /* Sécurité pour ne pas être trop grande sur PC */
+    box-sizing: border-box;
   ">
-    <img src="https://i.goopics.net/kcrez4.png" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 4px;" />
-    <p style="font-style: italic; color: #666;">« Better Roleplay Actualités »</p>
+    <img src="https://i.goopics.net/kcrez4.png" style="width: 100%; height: auto; border-radius: 4px;" />
+    <p style="font-style: italic; color: #666; margin-top: 8px;">« Better Roleplay Actualités »</p>
   </div>
 </div>
 
