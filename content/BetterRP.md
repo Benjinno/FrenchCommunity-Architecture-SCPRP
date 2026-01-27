@@ -32,7 +32,7 @@ tag :
     <div style="font-size: 0.8rem; margin-top: 8px;">Logo BetterRP™ Actuel</div>
   </div>
 
-  <div style="line-height: 1.6; text-align: justify;">
+  <div style="line-height: 1.6; text-align: left;">
     <p style="margin-top: 0;">
       BetterRP™, réalisé par Benji II (alias linconnue_62530<), 
       co-fondé avec vacarme_emporte et lirus_12345, est un projet 
