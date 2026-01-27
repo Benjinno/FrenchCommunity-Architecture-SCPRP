@@ -1,5 +1,5 @@
 ---
-title: BetterRP
+title: BetterRP™
 tag : 
   - Communauté
   - Actif
@@ -31,18 +31,8 @@ tag :
     <div style="font-size: 0.8rem; margin-top: 8px;">Logo BetterRP™ Actuel</div>
   </div>
 
-  <div style="line-height: 1.6; text-align: left;">
-    <p style="margin-top: 0;">
-      BetterRP™, réalisé par Benji II (alias linconnue_62530<), 
-      co-fondé avec vacarme_emporte et lirus_12345, est un projet 
-      visant à créer et centraliser plusieurs ressources sur SCP:RP.
-      </br>Son objectif est de guider et de donner des conseils adaptés aux sites et aux factions 
-      afin de leur permettre de bien fonctionner et de se développer gratuitement et de manière fiable.
-    </p>
-  </div>
-
-</div>
-
+BetterRP™, réalisé par Benji II (alias linconnue_62530<), co-fondé avec vacarme_emporte et lirus_12345, est un projet visant à créer et centraliser plusieurs ressources sur SCP:RP.
+</br>Son objectif est de guider et de donner des conseils adaptés aux sites et aux factions afin de leur permettre de bien fonctionner et de se développer gratuitement et de manière fiable.
 
 ## 📊・Statistiques
 *Dernière actualisation le 10/01/2026*
