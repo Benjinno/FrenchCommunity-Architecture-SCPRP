@@ -48,6 +48,19 @@ Lancé par BetterRP™ le 3 octobre 2025 avant d’aboutir à sa version finale 
 Le 3 octobre 2025, BetterRP™ lance son propre média nommé « Better Roleplay Actualités » avant d’aboutir à sa version finale le 29 octobre de la même année.
 Considéré par beaucoup comme une source d’information fiable pour la communauté SCP:Roleplay française. Le journal adopte une ligne éditoriale étant la plus neutre possible, les sujets présentés se concentrent principalement sur les activités des différents groupes, leurs développements et proposent une observation/enquête globale. Le journal est toujours actifs.
 
+<div style="margin: 20px 0; text-align: center;">
+  <div style="
+    display: inline-block; /* 1. Le bloc s'adapte à l'image */
+    padding: 10px;         /* 2. Cadre autour */
+    border: 1px solid #ddd;/* 4. Bordure */
+    width: 100%;           /* 5. Prend toute la largeur disponible */
+    box-sizing: border-box;/* 6. Inclut le padding dans la largeur */
+  ">
+    <img src="https://i.imgur.com/GX7v4HY.png" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 4px;" />
+    <p style="font-style: italic; color: #666;">« Better Roleplay Actualités »</p>
+  </div>
+</div>
+
 À l’occasion du 1er décembre 2025, pour la période de Noël, BetterRP™ lance, en collaboration avec le [[ ∙ Faction Hub SCPRP - Francophone]], un événement communautaire (aujourd’hui controversé) nommé « Better Awards », imaginé par @Benji II 👑 et affilié directement au serveur BetterRP. Cet événement vise à récompenser les sites/groupes dans un domaine en particulier. Les récompenses attribuées sont des prix agissant comme une sorte de « label ». Vous retrouvez ici les différentes éditions qui ont été réalisées. Cependant, de nombreuses critiques ont été formulées, notamment sur un manque de transparence concernant certaines décisions comme l’organisation, l’exclusion de sites considérés comme « blacklist » du [[ ∙ Faction Hub SCPRP - Francophone]] ou encore sur les résultats, avec comme l’un des gagnants [[Site 11 REMAKE V2]], ayant provoqué beaucoup de réactions.
 
 
