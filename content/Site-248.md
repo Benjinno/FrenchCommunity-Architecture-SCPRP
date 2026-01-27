@@ -11,7 +11,7 @@ tag :
 > **Nous vous demanderons de lire ce qui va suivre avec attention**. <br>*Vous souhaitez contribuer? [Contactez nous !](https://discord.gg/Tujvx6a3pb)*
 
 ## 📖・Description
-Site-248 est un très ancien site fondé et gérer par phnx_oei.
+Site-248 est un très ancien site fondé et gérer par phnx_oei. Considéré comme étant le prédécesseur de [[Site 84]]
 ## 📊・Statistiques
 *Dernière actualisation le 27/01/2026*
 - Membres sur le Discord : Indéterminé
