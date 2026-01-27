@@ -15,7 +15,6 @@ tag :
     margin: 0 0 15px 20px; 
     padding: 10px; 
     border: 1px solid #a2a9b1; 
-    background-color: #f8f9fa; 
     text-align: center;
     border-radius: 4px;
   ">
