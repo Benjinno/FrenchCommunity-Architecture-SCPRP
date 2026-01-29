@@ -9,7 +9,7 @@ tag :
 ## 📖・Description
 MONARCH est une organisation superviser par le gouvernement américain, elle a pour but de confinés, étudiés, rechercher et même par controle non-émergencer la destruction de leur anomalie appelées " TITANS ".
 
-Leur but son de faire en sorte de protéger la population mondiale des menaces et des créatures de ce monde, nous avions des points communs avec la Fondation SCP, mais pas totalement..
+Leur but son de faire en sorte de protéger la population mondiale des menaces et des créatures de ce monde, ils ont quelques points communs avec la Fondation SCP.
 
 ## 📊・Statistiques
 *Dernière actualisation le 12/01/2026*
@@ -24,6 +24,6 @@ Le projet MONARCH alias Godzilla, à était repris du serveur M.E.G de hyairoca.
 ### Collaboration Hors-RolePlay
 - [[Complexe Arque]]
 - [[BetterRP]]
--  [[Zone Gayin]]
+- [[Zone Gayin]]
 ### Collaboration Roleplay
 - [[Epsilon 11 " Nine Tiled Fox "]]

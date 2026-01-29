@@ -25,6 +25,7 @@ En décembre 2025, le FactionHub s’associe au serveur [[BetterRP]] pour organi
 ### Groupe sur Roblox Studio
 - [[Complexe Arque]]
 -  [[Zone Gayin]]
+
 ### Site sur SCP:Roleplay
 - [[Zone-Lunaire-32]]
 - [[Site-43]]
@@ -51,13 +52,13 @@ En décembre 2025, le FactionHub s’associe au serveur [[BetterRP]] pour organi
 - [[Alpha-1]]
 - [[Alpha-9]]
 - [[Agence de renseignement]]
-- [[Agence de renseignement | Faction]]
+- [[Agence de renseignement - Faction]]
 - [[AREG]]
 - [[B1]]
 - [[B7]]
 - [[COMITÉ D'ÉTHIQUE]]
 - [[Département de la Justice Interne]]
-- [[DSI | Département de Sécurité Interne]]
+- [[DSI - Département de Sécurité Interne]]
 - [[E11]]
 - [[Lota-09]]
 - [[November-Squad]]
@@ -80,5 +81,7 @@ En décembre 2025, le FactionHub s’associe au serveur [[BetterRP]] pour organi
 
 ### Communauté
 - [[BetterRP]]
+
 ### Autres / Hors SCP:Roleplay
 - [[Epsilon 11 " Nine Tiled Fox "]]
+- [[Empire Nexara]]
