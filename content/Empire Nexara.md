@@ -11,7 +11,7 @@ tag :
 ---
 
 ## 📖・Description
-Le lore d'Oria est un projet fondé par divin_hunter. Le but est de créer un lore original et unique, dont fait partie l'Empire Nexara. Le serveur Discord permet de discuter autour de ce lore et de pratiquer du roleplay, à la fois écrit et in-game.
+Le lore d'Oria est un projet fondé par *divin_hunter*. Le but est de créer un lore original et unique, dont fait partie l'Empire Nexara. Le serveur Discord permet de discuter autour de ce lore et de pratiquer du roleplay, à la fois écrit et in-game.
 De plus, le lien avec la communauté SCP RP vient du fait que l’un de leurs serveurs pratique du RP sur SCP Roleplay (in-game). Puis, dans leur lore, seule une petite partie raconte une fondation SCP qui est inspirée de la Fondation SCP originel, mais avec une histoire et un contexte complètement différents.
 
 ## 📊・Statistiques
