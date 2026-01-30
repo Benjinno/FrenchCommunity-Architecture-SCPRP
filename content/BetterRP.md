@@ -54,8 +54,8 @@ Considéré par beaucoup comme une source d’information fiable pour la communa
     display: inline-block;
     padding: 10px; 
     border: 1px solid #ddd;
-    width: 60%; /* RÉDUIT ICI (au lieu de 100%) */
-    max-width: 500px; /* Sécurité pour ne pas être trop grande sur PC */
+    width: 60%; 
+    max-width: 500px; 
     box-sizing: border-box;
   ">
     <img src="https://i.goopics.net/kcrez4.png" style="width: 100%; height: auto; border-radius: 4px;" />
