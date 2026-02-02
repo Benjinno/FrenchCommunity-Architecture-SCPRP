@@ -82,7 +82,7 @@ export default (() => {
           </>
         )}
 
-        <link rel="icon" href="https://benjinno.github.io/FrenchCommunity-Architecture-SCPRP/favicon.ico" />
+        <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
