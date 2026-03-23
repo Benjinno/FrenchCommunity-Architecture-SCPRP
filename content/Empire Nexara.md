@@ -24,7 +24,9 @@ De plus, le lien avec la communauté SCP RP vient du fait que l’un de leurs se
 Le projet a commencé à l’écrit en 2024. L’auteur, divin_hunter, a commencé à rassembler dans des cahiers toutes son histoire et le lore complexe qui en découle.
 Le projet est devenu visible sur Discord en mai 2025 avec le lancement de son serveur officiel, le site web n’étant pas encore publié mais en cours de construction.
 Vers juillet 2025, les premiers tests du site web sont apparus, alors que le lore n’était toujours pas entièrement rédigé.
+
 En décembre 2025, une version 3 était encore en cours de construction. Dès sa publication, le lore principal sera disponible, ainsi que tout le roleplay et ces informations.
+
 Le 17 décembre 2025, un serveur liés au lore débutta, appelée le site 30, ce serveur discord regroupe le lore de l'empire Nexara et sa rédaction sur la fondation SCP et joue sur le jeu nommé SCP Roleplay de roblox par metamethod, les premières sessions ont été présentes début mars 2026, et une map est en construction.
 
 Le serveur Discord a subi de nombreux changements et améliorations. Son objectif principal est de se faire connaître autant que les communautés de lore existantes, telles que la Fondation SCP ou le lore Backrooms, et de permettre le développement d’autres projets (jeux, livres…) directement liés au lore.
