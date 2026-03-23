@@ -6,7 +6,7 @@ tag :
   - Reputation-Moyenne
 ---
 ## 📖・Description
-Radium est un serveur SCP:RP francophone fondé par Fufoley, comeback_ (Rayan) ainsi que dr1co00, il a pour ambition d'offrir une expérience Serious Roleplay immersive et qualitative dans laquelle chace action et interaction est authentique.
+Radium est un serveur SCP:RP francophone fondé par Fufoley, comeback_ (Rayan) ainsi que dr1co00, il a pour ambition d'offrir une expérience Serious Roleplay immersive et qualitative dans laquelle chaque action est interaction et authentique.
 
 ## 📊・Statistiques
 *Dernière actualisation le 18/01/2026*
